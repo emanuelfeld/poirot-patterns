@@ -1,6 +1,0 @@
-- name: U.S. passport number
-  pattern: [23][0-9]{8}
-- name: U.S. passport card number
-  pattern: C0[0-9]{7}
-- name: U.S. social security number
-  pattern: [0-9]{3}[ -]?[0-9]{2}[ -]?[0-9]{4}
